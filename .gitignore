@@ -15,3 +15,5 @@ bin
 *.iml
 
 cloud-ready-reactive-app.log
+chapter-01/target/
+chapter-02/target/
