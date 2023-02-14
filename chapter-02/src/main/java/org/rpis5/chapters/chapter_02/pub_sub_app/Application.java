@@ -11,6 +11,10 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import java.util.concurrent.Executor;
 
+/***
+ *
+ * Test pass on 2023/2/14
+ */
 @EnableAsync
 @SpringBootApplication
 public class Application implements AsyncConfigurer {
